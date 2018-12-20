@@ -1,0 +1,16 @@
+namespace PaketLoadScripts
+
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Collections.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.IO.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Resources.ResourceManager.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.Extensions.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.Handles.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.InteropServices.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.Numerics.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Security.Cryptography.Encoding.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Security.Cryptography.Primitives.csx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Text.Encoding.csx" 
+#r "System.Core" 
+#r "mscorlib" 
+#r "/Users/chethusk/.nuget/packages/system.security.cryptography.algorithms/4.3.1/lib/net463/System.Security.Cryptography.Algorithms.dll" 

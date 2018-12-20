@@ -1,0 +1,15 @@
+namespace PaketLoadScripts
+
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Collections.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.IO.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Resources.ResourceManager.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.Extensions.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.Handles.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.InteropServices.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Runtime.Numerics.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Security.Cryptography.Algorithms.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Security.Cryptography.Encoding.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Security.Cryptography.Primitives.fsx" 
+#load "/Users/chethusk/oss/computation-expressions-workshop/.paket/load/net471/System.Text.Encoding.fsx" 
+#r "/Users/chethusk/.nuget/packages/system.security.cryptography.openssl/4.5.0/lib/netstandard2.0/System.Security.Cryptography.OpenSsl.dll" 
